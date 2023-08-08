@@ -1,4 +1,4 @@
-# Extract-Information-from-IDcard\
+# Extract-Information-from-IDcard
 ## Author: namhai18
 ## Description
 - ID card play an important role to supply imformation to identify human and this applications can detect in IDcard with chip, ID card without chip and namecard in Vietnam.
